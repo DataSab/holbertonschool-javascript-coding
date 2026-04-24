@@ -12,4 +12,4 @@ This repo contains my projects based on ES6, JavaScript and Node JS
 ---
 
 ## Author
-* **Sabrina PAPEAU** [Github](https://github.com/Holbiwan)
+* **Sabrina** [Github](https://github.com/DataSab)
